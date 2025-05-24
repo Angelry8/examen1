@@ -7,7 +7,7 @@ double resta(double c, double d){
 
 int main(){
 double c= 0;
-double d= 0,
+double d= 0;
 
 cout<< "Escribe el primer numero: " <<endl;
 cin >>c;
